@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ABQ-Banking_LOGO" alt="ABQ Banking Logo" width="200">
+  <img src="./ABQ-Banking_LOGO.png" alt="ABQ Banking Logo" width="200">
 </p>
 
 # ABQ Banking
