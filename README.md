@@ -46,7 +46,7 @@ Une plateforme innovante pour l'optimisation des portefeuilles d'investissement 
 
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/abq-banking.git
+   git clone https://github.com/mouad-abaaqil/ABQ-Banking.git
    ```
 2. Installez les dépendances nécessaires :
    ```bash
